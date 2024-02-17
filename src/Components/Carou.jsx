@@ -17,6 +17,7 @@ const carou = () => {
                     <div className="carousel-inner">
                         <div className="carousel-item active">
                             <div className="row">
+                            <h2 className='hello3 text-bold my-3'>Latest Articles</h2>
                                  <div className="col-md-4 mb-3">
                                     <div className="card p-2">
                                         <img src={image2} className="m-2" alt="" />
@@ -51,6 +52,7 @@ const carou = () => {
                         </div>
                         <div className="carousel-item">
                             <div className="row">
+                            <h2 className='hello3 text-bold my-3'>Latest Articles</h2>
                                 <div className="col-md-4 mb-3">
                                     <div className="card">
                                        <img src={image5} className="m-2" alt="" />

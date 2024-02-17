@@ -10,8 +10,9 @@ const About = () => {
           </div>
           <div className="col-md-6">
             <div className='p-5'> 
-               <h3 className='about1 mt-5'>About Us</h3>
+             
                 <div className="card-body m-0">
+                <h3 className='about1 mt-5'>About Us</h3>
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque debitis 
                   harum cupiditate commodi tenetur doloribus nostrum nihil in porro facilis
                    a, laboriosam consectetur dignissimos assumenda? Quisquam quasi minima officiis eligendi.
